@@ -1,4 +1,38 @@
 {
-  "users": [],
-  "posts": []
+  "users": [
+    {
+      "id": "02bd",
+      "name": "1",
+      "address": "1",
+      "password": "1"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "text": "salom",
+      "status": "open"
+    },
+    {
+      "id": "2",
+      "text": "Drag and Drop",
+      "status": "open"
+    },
+    {
+      "id": "3",
+      "text": "Task Complete",
+      "status": "inprogress"
+    },
+    {
+      "id": "1740205037208",
+      "text": "nimadir",
+      "status": "complete"
+    },
+    {
+      "id": "1740205167721",
+      "text": "1",
+      "title": "open",
+      "status": "complete"
+    }
+  ]
 }
